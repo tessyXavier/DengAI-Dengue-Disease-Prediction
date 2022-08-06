@@ -14,6 +14,12 @@ https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
 DengAI’s goal is to predict a number of dengue cases in the particular week base on weather data and location. Each participant was given a training dataset and test dataset (not validation dataset). MAE ( Mean Absolute Error) is a metric used to calculate score and the training dataset covers 28 years of weekly values for 2 cities (1456 weeks). Test data is smaller and spans over 5 and 3 years (depends on the city).
 
 
+# Methodology
+
+Modelling dengue fever in endemic areas is important to mitigate and improve vector-borne disease control to reduce outbreaks. This project applied artificial neural networks (ANNs) to predict dengue fever outbreak occurrences in San Juan, Puerto Rico (USA), and in several coastal municipalities of the state of Yucatan, Mexico, based on specific thresholds. The models were trained with 19 years of dengue fever data for Puerto Rico and six years for Mexico. Environmental and demographic data included in the predictive models were sea surface temperature (SST), precipitation, air temperature (i.e., minimum, maximum, and average), humidity, previous dengue cases, and population size.
+
+
+
 
 # Competition participation screenshot
 
