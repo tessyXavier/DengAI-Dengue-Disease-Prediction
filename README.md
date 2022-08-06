@@ -7,6 +7,8 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 
 This is an intermediate-level practice competition conducted by drivendata.org . Your task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes in temperature, precipitation, vegetation, and more.
 
+https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+
 # Problem Description
 
 DengAIâ€™s goal is to predict a number of dengue cases in the particular week base on weather data and location. Each participant was given a training dataset and test dataset (not validation dataset). MAE ( Mean Absolute Error) is a metric used to calculate score and the training dataset covers 28 years of weekly values for 2 cities (1456 weeks). Test data is smaller and spans over 5 and 3 years (depends on the city).
