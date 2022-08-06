@@ -18,3 +18,8 @@ DengAI’s goal is to predict a number of dengue cases in the particular week ba
 # Toolkit
 
 # Competition participation screenshot
+
+
+![](images/Screenshot%202022-08-06%20224257.jpg)
+
+![](images/Screenshot%202022-08-06%20224403.jpg)
